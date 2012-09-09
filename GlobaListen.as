@@ -1,0 +1,1 @@
+﻿package  {		public class GlobaListen {		public function GlobaListen() {			//Equation for a sphere			x = r sin(u) cos(v);			y = r cos(u) cos(v);			z = r sin(v);		}	}	}
