@@ -1,0 +1,73 @@
+var terrain:Shape = Shape(addChild(new Shape()));
+terrain.x = terrain.y = 250;
+var rows:int = 60;
+var size:int = rows + 1;
+var vertNum:int = size * size;
+var polySize:Number = 5;
+var gridWidth:Number = polySize * rows;
+var halfWidth:Number = gridWidth / 2;
+var verts:Vector.<Number> = new Vector.<Number>();
+var pVerts:Vector.<Number> = new Vector.<Number>();
+var indices:Vector.<int> = new Vector.<int>();
+var uvs:Vector.<Number> = new Vector.<Number>();
+var uvts:Vector.<Number> = new Vector.<Number>();
+var tex:BitmapData = new BitmapData(gridWidth, gridWidth, false, 0x000000);
+var pix:int = gridWidth * gridWidth;
+var perlin:BitmapData = new BitmapData(gridWidth, gridWidth, false, 0x000000);
+// generate the texture and the terrain
+function generate():void{
+    tex.fillRect(tex.rect, 0x000000);
+    var i:Number, xp:Number, yp:Number;
+    for (i = 0; i<pix; i++){
+        xp = i % gridWidth;
+        yp= int(i / gridWidth);
+        var dx:Number = xp - gridWidth / 2;
+        var dy:Number = yp - gridWidth / 2;
+        var d:Number = 255 - Math.sqrt(dx * dx + dy * dy) / halfWidth* 255;
+        if (d <0) d = 0;
+        if (d> 255) d = 255;
+        var c:uint = uint(d);
+        tex.setPixel(xp, yp, c <<16 | c <<8 | c);
+    }
+    perlin.perlinNoise(100,100,3,Math.random()*100,false,false,7,true);
+    perlin.draw(perlin, null, null, BlendMode.SCREEN);
+    tex.draw(perlin, null, null, BlendMode.MULTIPLY);
+    // calculate verts, uvs and indices
+    var vIndex:int = 0;
+    var uvIndex:int = 0;
+    indices = new Vector.<int>();
+    for (i = 0; i<vertNum; i++){
+        var xMod:Number = i % size;
+        xp = xMod * polySize;
+        yp = int(i / size) * polySize;
+        verts[vIndex++] = xp - halfWidth;
+        verts[vIndex++] = yp - halfWidth;
+        verts[vIndex++] = tex.getPixel(xp, yp) & 0xFF;
+        uvs[uvIndex++] = xp /  gridWidth;
+        uvs[uvIndex++] = yp / gridWidth;
+        if (xMod != rows){
+              indices.push(i, i+1, i+size, i+1, i+size+1, i+size);
+        }
+    }
+}
+generate();
+stage.addEventListener(MouseEvent.MOUSE_DOWN, onGenerate);
+function onGenerate(evt:MouseEvent):void{ generate() };
+var m:Matrix3D = new Matrix3D();
+var rot:Number = 0;
+addEventListener(Event.ENTER_FRAME, onLoop);
+function onLoop(evt:Event):void {
+        m.identity();
+        var destRot:Number = mouseX / stage.stageWidth * 90;
+        if (destRot <0) destRot = 0;
+        if (destRot> 90) destRot = 90;
+        rot += (destRot - rot) * 0.2;
+        m.appendRotation(rot,Vector3D.Z_AXIS);
+        m.appendRotation(60,Vector3D.X_AXIS);
+        Utils3D.projectVectors(m, verts, pVerts, uvts);
+        with(terrain.graphics){
+            clear();
+            beginBitmapFill(tex, null, false, true);
+            drawTriangles(pVerts, indices, uvs, TriangleCulling.NEGATIVE);
+        }
+}
