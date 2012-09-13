@@ -5,8 +5,10 @@
 	$vals = array();
 	$start_tracks = "<key>Tracks</key>";
 	
+	$mysqli = new mysqli();
+	
 	$dataarray = array(
-			"track name"	=>	array(),
+			"name"	=>	array(),
 			"artist"		=>	array(),
 			"composer"		=>	array(),
 			"album"			=>	array(),
@@ -14,6 +16,19 @@
 			"year"			=>	array() );
 	
 	$nexttype = "";
+	
+	function store_array( &$data, $table, $mysqli )
+	{
+		$cols = implode( ',', array_keys( $data ) );
+		
+		foreach( array_values( $data ) as $value )
+		{
+			isset( $vals ) ? $vals .= ',' : $vals = '';
+			$vals .= '\'' . $this->mysql->real_escape_string($value) . '\'';
+		}
+		
+		$mysqli->real_query('INSERT INTO '.$table.' ('.$cols.') VALUES ('.$vals.')');
+	}
 	
 	function contents( $parser, $data )
 	{
@@ -23,13 +38,20 @@
 		
 		if( $nexttype !== "" )
 		{
-			array_push( $dataarray[$nexttype], $data );
+			if( $nexttype != "year" )
+			{
+				array_push( $dataarray[$nexttype], $data );
+			}
+			else
+			{
+				array_push( $dataarray[$nexttype], (int) $data );
+			}
 		}
 		
 		switch( $data )
 		{
 			case "Name":
-				$nexttype = "track name";
+				$nexttype = "name";
 				break;
 			case "Artist":
 				$nexttype = "artist";
@@ -64,6 +86,8 @@
 	{ 
 		die("Error on line " . xml_get_current_line_number( $parser ) ); 
 	}
+	
+	store_array( $dataarray, "tracks", $mysqli );
 	
 //	echo "End of process line number: " . xml_get_current_line_number( $parser ) . "<br />";
 	
