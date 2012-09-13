@@ -1,4 +1,4 @@
-iEthnomusicology
-================
+GlobaListener
+=============
 
-One of my thesis projects; iEthnomusicology is a web app that visualizes the geography and ethnomusicology of a user's iTunes library XML file
+This project visualizes the relationship between global humanity and an individual's musical universe.  A map of all kinds of information regarding the conditions that the music was made: where, when, what was happening in government, business, and culture, and even what the weather was like at the time of production.
