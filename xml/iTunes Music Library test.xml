@@ -1,0 +1,3053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-09-12T18:42:08Z</date>
+	<key>Application Version</key><string>10.6.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>4F0D76EFAB02DDDB</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2281</key>
+		<dict>
+			<key>Track ID</key><integer>2281</integer>
+			<key>Name</key><string>Love To Hate, Hate To Me</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8906903</integer>
+			<key>Total Time</key><integer>222615</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Persistent ID</key><string>7C0D72C1AEFA8F80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/02%20Love%20To%20Hate,%20Hate%20To%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2283</key>
+		<dict>
+			<key>Track ID</key><integer>2283</integer>
+			<key>Name</key><string>Withered</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9578756</integer>
+			<key>Total Time</key><integer>239412</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Persistent ID</key><string>194C8422AF55451D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/03%20Withered.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2285</key>
+		<dict>
+			<key>Track ID</key><integer>2285</integer>
+			<key>Name</key><string>Lipgloss And Letdown</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10125250</integer>
+			<key>Total Time</key><integer>253074</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Persistent ID</key><string>463FA63986719B2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/04%20Lipgloss%20And%20Letdown.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2287</key>
+		<dict>
+			<key>Track ID</key><integer>2287</integer>
+			<key>Name</key><string>A Sip Of Wine Chased With Cyanide</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12565099</integer>
+			<key>Total Time</key><integer>314070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Sort Name</key><string>Sip Of Wine Chased With Cyanide</string>
+			<key>Persistent ID</key><string>1B44AA687D968488</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/05%20A%20Sip%20Of%20Wine%20Chased%20With%20Cyanide.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2289</key>
+		<dict>
+			<key>Track ID</key><integer>2289</integer>
+			<key>Name</key><string>We Go To Eleven</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10506632</integer>
+			<key>Total Time</key><integer>262608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Persistent ID</key><string>D20E0DAB46CD0866</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/06%20We%20Go%20To%20Eleven.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2291</key>
+		<dict>
+			<key>Track ID</key><integer>2291</integer>
+			<key>Name</key><string>The Shooting Star That Destroyed Us</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11049999</integer>
+			<key>Total Time</key><integer>276192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Sort Name</key><string>Shooting Star That Destroyed Us</string>
+			<key>Persistent ID</key><string>EB3130AD4AFED10F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/07%20The%20Shooting%20Star%20That%20Destroyed%20Us.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2293</key>
+		<dict>
+			<key>Track ID</key><integer>2293</integer>
+			<key>Name</key><string>A Song For A Broken Heart</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9663410</integer>
+			<key>Total Time</key><integer>241528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Sort Name</key><string>Song For A Broken Heart</string>
+			<key>Persistent ID</key><string>40BCFA81BE04E867</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/08%20A%20Song%20For%20A%20Broken%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2295</key>
+		<dict>
+			<key>Track ID</key><integer>2295</integer>
+			<key>Name</key><string>Annunciate While You Masticate</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6892345</integer>
+			<key>Total Time</key><integer>172251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Persistent ID</key><string>56843CA8DC3CBDAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/09%20Annunciate%20While%20You%20Masticate.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2297</key>
+		<dict>
+			<key>Track ID</key><integer>2297</integer>
+			<key>Name</key><string>Charred Fields Of Snow</string>
+			<key>Artist</key><string>A Static Lullaby</string>
+			<key>Composer</key><string>A Static Lullaby</string>
+			<key>Album</key><string>...And Don't Forget To Breathe</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11617367</integer>
+			<key>Total Time</key><integer>290377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Static Lullaby</string>
+			<key>Sort Composer</key><string>Static Lullaby</string>
+			<key>Persistent ID</key><string>F30841E18A8997EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Static%20Lullaby/_..And%20Don't%20Forget%20To%20Breathe/10%20Charred%20Fields%20Of%20Snow.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2299</key>
+		<dict>
+			<key>Track ID</key><integer>2299</integer>
+			<key>Name</key><string>Excursions</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9387494</integer>
+			<key>Total Time</key><integer>234631</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:49:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>C9DBDD21AEAD5B3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/01%20Excursions.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2301</key>
+		<dict>
+			<key>Track ID</key><integer>2301</integer>
+			<key>Name</key><string>Buggin' Out</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad/Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8706262</integer>
+			<key>Total Time</key><integer>217600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:49:28Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>CCFD29C525086955</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/02%20Buggin'%20Out.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2303</key>
+		<dict>
+			<key>Track ID</key><integer>2303</integer>
+			<key>Name</key><string>Rap Promoter</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5332275</integer>
+			<key>Total Time</key><integer>133250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:49:39Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>8A7351B3E84B9BE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/03%20Rap%20Promoter.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2305</key>
+		<dict>
+			<key>Track ID</key><integer>2305</integer>
+			<key>Name</key><string>Butter</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad/Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8749098</integer>
+			<key>Total Time</key><integer>218671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:49:55Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>A680B16282C0848C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/04%20Butter.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2307</key>
+		<dict>
+			<key>Track ID</key><integer>2307</integer>
+			<key>Name</key><string>Verses From The Abstract</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9560961</integer>
+			<key>Total Time</key><integer>238968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:50:11Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>7022706A92AF0C69</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/05%20Verses%20From%20The%20Abstract.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2309</key>
+		<dict>
+			<key>Track ID</key><integer>2309</integer>
+			<key>Name</key><string>Show Business</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>D.Murphy/L. Dechalus/Joe Kirkland/Skeff Anselm/Ali Shaheed Muhammad/Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9340564</integer>
+			<key>Total Time</key><integer>233456</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:50:26Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>EAE9FB016FC66BFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/06%20Show%20Business.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2311</key>
+		<dict>
+			<key>Track ID</key><integer>2311</integer>
+			<key>Name</key><string>Vibes And Stuff</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10324792</integer>
+			<key>Total Time</key><integer>258063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:50:42Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>71E0FA05184C132B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/07%20Vibes%20And%20Stuff.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2313</key>
+		<dict>
+			<key>Track ID</key><integer>2313</integer>
+			<key>Name</key><string>The Infamous Date Rape</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad/Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6942486</integer>
+			<key>Total Time</key><integer>173505</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:50:52Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Name</key><string>Infamous Date Rape</string>
+			<key>Persistent ID</key><string>5841D6762CF227E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/08%20The%20Infamous%20Date%20Rape.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2315</key>
+		<dict>
+			<key>Track ID</key><integer>2315</integer>
+			<key>Name</key><string>Check The Rhyme</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad/Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8678054</integer>
+			<key>Total Time</key><integer>216894</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:51:04Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>12DF3E06320D8C91</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/09%20Check%20The%20Rhyme.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2317</key>
+		<dict>
+			<key>Track ID</key><integer>2317</integer>
+			<key>Name</key><string>Everything Is Fair</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad/Skeff Anselm</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7136834</integer>
+			<key>Total Time</key><integer>178364</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:51:14Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>DEB4DBF23C08E77C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/10%20Everything%20Is%20Fair.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2319</key>
+		<dict>
+			<key>Track ID</key><integer>2319</integer>
+			<key>Name</key><string>Jazz</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Ali Shaheed Muhammad/Malik Taylor</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10010289</integer>
+			<key>Total Time</key><integer>250200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:51:27Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>65797F4220B6424F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/11%20Jazz.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2321</key>
+		<dict>
+			<key>Track ID</key><integer>2321</integer>
+			<key>Name</key><string>Skypager</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Malik Taylor/Ali Shaheed Muhammad</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5297803</integer>
+			<key>Total Time</key><integer>132388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:51:34Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>F521B0863205204B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/12%20Skypager.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2323</key>
+		<dict>
+			<key>Track ID</key><integer>2323</integer>
+			<key>Name</key><string>What?</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5948731</integer>
+			<key>Total Time</key><integer>148662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:51:42Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>9565CF29286C62A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/13%20What_.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2325</key>
+		<dict>
+			<key>Track ID</key><integer>2325</integer>
+			<key>Name</key><string>Scenario</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Brian Higgins/Malik Taylor/Trevor &#38; Smith/Ali Shaheed Muhammad/James Jackson</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10147218</integer>
+			<key>Total Time</key><integer>253622</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2011-09-13T23:51:54Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Persistent ID</key><string>5EA1455AE253DEC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/14%20Scenario.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2327</key>
+		<dict>
+			<key>Track ID</key><integer>2327</integer>
+			<key>Name</key><string>Strength Through Wounding</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3741952</integer>
+			<key>Total Time</key><integer>93492</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4A8476EA890CE3B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/01%20Strength%20Through%20Wounding.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2329</key>
+		<dict>
+			<key>Track ID</key><integer>2329</integer>
+			<key>Name</key><string>Porphyria Cutanea Tarda</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5089869</integer>
+			<key>Total Time</key><integer>127190</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>612A0A0FF42B261E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/02%20Porphyria%20Cutanea%20Tarda.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2331</key>
+		<dict>
+			<key>Track ID</key><integer>2331</integer>
+			<key>Name</key><string>Exsanguination</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6748113</integer>
+			<key>Total Time</key><integer>168646</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>42A0C835330141F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/03%20Exsanguination.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2333</key>
+		<dict>
+			<key>Track ID</key><integer>2333</integer>
+			<key>Name</key><string>Malleus Maleficarum</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9673832</integer>
+			<key>Total Time</key><integer>241789</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6D3DE83BD992655B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/04%20Malleus%20Maleficarum.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2335</key>
+		<dict>
+			<key>Track ID</key><integer>2335</integer>
+			<key>Name</key><string>Narrative Of Soul Against Soul</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6001027</integer>
+			<key>Total Time</key><integer>149968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0519860D7E70E1D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/05%20Narrative%20Of%20Soul%20Against%20Soul.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2337</key>
+		<dict>
+			<key>Track ID</key><integer>2337</integer>
+			<key>Name</key><string>Clove Smoke Catharsis</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11131466</integer>
+			<key>Total Time</key><integer>278230</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3FC139DEE3EB7F76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/06%20Clove%20Smoke%20Catharsis.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2339</key>
+		<dict>
+			<key>Track ID</key><integer>2339</integer>
+			<key>Name</key><string>The Prayer Position</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8316509</integer>
+			<key>Total Time</key><integer>207856</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Prayer Position</string>
+			<key>Persistent ID</key><string>FB6D36D8E3519274</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/07%20The%20Prayer%20Position.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2341</key>
+		<dict>
+			<key>Track ID</key><integer>2341</integer>
+			<key>Name</key><string>No Poetic Device</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5461845</integer>
+			<key>Total Time</key><integer>136489</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F094B4439FF81B51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/08%20No%20Poetic%20Device.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2343</key>
+		<dict>
+			<key>Track ID</key><integer>2343</integer>
+			<key>Name</key><string>The Last Kiss</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7312356</integer>
+			<key>Total Time</key><integer>182752</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Last Kiss</string>
+			<key>Persistent ID</key><string>EB95B34229814A3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/09%20The%20Last%20Kiss.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2345</key>
+		<dict>
+			<key>Track ID</key><integer>2345</integer>
+			<key>Name</key><string>Weathered Tome</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5321828</integer>
+			<key>Total Time</key><integer>132989</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>055BA356BE4A91F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/10%20Weathered%20Tome.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2347</key>
+		<dict>
+			<key>Track ID</key><integer>2347</integer>
+			<key>Name</key><string>At A Glance</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9624715</integer>
+			<key>Total Time</key><integer>240561</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9A6236231DF0B159</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/11%20At%20A%20Glance.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2349</key>
+		<dict>
+			<key>Track ID</key><integer>2349</integer>
+			<key>Name</key><string>God Called In Sick Today</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Jade Puget</string>
+			<key>Album</key><string>Black Sails In The Sunset</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>32475601</integer>
+			<key>Total Time</key><integer>811833</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2010-07-20T21:19:23Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D0D6D21A2F4AA1E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Black%20Sails%20In%20The%20Sunset/12%20God%20Called%20In%20Sick%20Today.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2351</key>
+		<dict>
+			<key>Track ID</key><integer>2351</integer>
+			<key>Name</key><string>Torch Song</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9227199</integer>
+			<key>Total Time</key><integer>225332</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>474F0878AA4A2A12</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/01%20Torch%20Song.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2353</key>
+		<dict>
+			<key>Track ID</key><integer>2353</integer>
+			<key>Name</key><string>Beautiful Thieves</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9257508</integer>
+			<key>Total Time</key><integer>226089</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9FA7A68D3550447</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/02%20Beautiful%20Thieves.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2355</key>
+		<dict>
+			<key>Track ID</key><integer>2355</integer>
+			<key>Name</key><string>End Transmission</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9331695</integer>
+			<key>Total Time</key><integer>227944</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6110E73F539B638</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/03%20End%20Transmission.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2357</key>
+		<dict>
+			<key>Track ID</key><integer>2357</integer>
+			<key>Name</key><string>Too Shy To Scream</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7317130</integer>
+			<key>Total Time</key><integer>177580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1A3DC0CFE9C0F847</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/04%20Too%20Shy%20To%20Scream.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2359</key>
+		<dict>
+			<key>Track ID</key><integer>2359</integer>
+			<key>Name</key><string>Veronica Sawyer Smokes</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6790506</integer>
+			<key>Total Time</key><integer>164414</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4BF9AC54B244360</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/05%20Veronica%20Sawyer%20Smokes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2361</key>
+		<dict>
+			<key>Track ID</key><integer>2361</integer>
+			<key>Name</key><string>Okay, I Feel Better Now</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11071454</integer>
+			<key>Total Time</key><integer>271438</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C85E247275CB72AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/06%20Okay,%20I%20Feel%20Better%20Now.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2363</key>
+		<dict>
+			<key>Track ID</key><integer>2363</integer>
+			<key>Name</key><string>Medicate</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10647211</integer>
+			<key>Total Time</key><integer>260832</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16BAF94EF9D53EC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/07%20Medicate.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2365</key>
+		<dict>
+			<key>Track ID</key><integer>2365</integer>
+			<key>Name</key><string>I Am Trying Very Hard To Be Here</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6760215</integer>
+			<key>Total Time</key><integer>163657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C404B63C1E450893</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/08%20I%20Am%20Trying%20Very%20Hard%20To%20Be%20Here.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2367</key>
+		<dict>
+			<key>Track ID</key><integer>2367</integer>
+			<key>Name</key><string>Sacrilege</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8517710</integer>
+			<key>Total Time</key><integer>207595</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69DB223493BD451D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/09%20Sacrilege.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2369</key>
+		<dict>
+			<key>Track ID</key><integer>2369</integer>
+			<key>Name</key><string>Darling, I Want To Destroy You</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9154076</integer>
+			<key>Total Time</key><integer>223503</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7364E768A64370C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/10%20Darling,%20I%20Want%20To%20Destroy%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2371</key>
+		<dict>
+			<key>Track ID</key><integer>2371</integer>
+			<key>Name</key><string>Cold Hands</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8712064</integer>
+			<key>Total Time</key><integer>212453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F438F93AF32BE03C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/11%20Cold%20Hands.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2373</key>
+		<dict>
+			<key>Track ID</key><integer>2373</integer>
+			<key>Name</key><string>It Was Mine</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>Crash Love</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9574106</integer>
+			<key>Total Time</key><integer>234004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>166164B7492697CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Crash%20Love/12%20It%20Was%20Mine.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2375</key>
+		<dict>
+			<key>Track ID</key><integer>2375</integer>
+			<key>Name</key><string>Prelude 12/21</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3782771</integer>
+			<key>Total Time</key><integer>94511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>82FC8654264B7D98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/01%20Prelude%2012_21.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2377</key>
+		<dict>
+			<key>Track ID</key><integer>2377</integer>
+			<key>Name</key><string>Kill Caustic</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6389791</integer>
+			<key>Total Time</key><integer>159686</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>363069E0252AE28F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/02%20Kill%20Caustic.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2379</key>
+		<dict>
+			<key>Track ID</key><integer>2379</integer>
+			<key>Name</key><string>Miss Murder</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8268516</integer>
+			<key>Total Time</key><integer>206654</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>14CAAD9B9108EF05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/03%20Miss%20Murder.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2381</key>
+		<dict>
+			<key>Track ID</key><integer>2381</integer>
+			<key>Name</key><string>Summer Shudder</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7483801</integer>
+			<key>Total Time</key><integer>187036</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4A53C3A69F05A6E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/04%20Summer%20Shudder.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2383</key>
+		<dict>
+			<key>Track ID</key><integer>2383</integer>
+			<key>Name</key><string>The Interview</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10276812</integer>
+			<key>Total Time</key><integer>256862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Interview</string>
+			<key>Persistent ID</key><string>A1A959361E9A958E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/05%20The%20Interview.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2385</key>
+		<dict>
+			<key>Track ID</key><integer>2385</integer>
+			<key>Name</key><string>Love Like Winter</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6631166</integer>
+			<key>Total Time</key><integer>165720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9C496F79398614C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/06%20Love%20Like%20Winter.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2387</key>
+		<dict>
+			<key>Track ID</key><integer>2387</integer>
+			<key>Name</key><string>Affliction</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13152368</integer>
+			<key>Total Time</key><integer>328751</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E1DE9BBA3F5B5705</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/07%20Affliction.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2389</key>
+		<dict>
+			<key>Track ID</key><integer>2389</integer>
+			<key>Name</key><string>The Missing Frame</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11217224</integer>
+			<key>Total Time</key><integer>280372</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Missing Frame</string>
+			<key>Persistent ID</key><string>07681CEE0A2C17FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/08%20The%20Missing%20Frame.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2391</key>
+		<dict>
+			<key>Track ID</key><integer>2391</integer>
+			<key>Name</key><string>Kiss And Control</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10345778</integer>
+			<key>Total Time</key><integer>258586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DE16E8F3419CBA77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/09%20Kiss%20And%20Control.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2393</key>
+		<dict>
+			<key>Track ID</key><integer>2393</integer>
+			<key>Name</key><string>The Killing Lights</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9796165</integer>
+			<key>Total Time</key><integer>244845</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Killing Lights</string>
+			<key>Persistent ID</key><string>C15C2BF6B886092B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/10%20The%20Killing%20Lights.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2395</key>
+		<dict>
+			<key>Track ID</key><integer>2395</integer>
+			<key>Name</key><string>37mm</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9413718</integer>
+			<key>Total Time</key><integer>235284</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5361742AD65F6B1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/11%2037mm.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2397</key>
+		<dict>
+			<key>Track ID</key><integer>2397</integer>
+			<key>Name</key><string>Endlessly, She Said</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Davey Havok, Jade Puget, Adam Carson, Hunter/David Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Decemberunderground</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10675970</integer>
+			<key>Total Time</key><integer>266840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BB3186C9B2D1BC7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Decemberunderground/12%20Endlessly,%20She%20Said.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2399</key>
+		<dict>
+			<key>Track ID</key><integer>2399</integer>
+			<key>Name</key><string>Miseria Cantare- The Beginning</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7086705</integer>
+			<key>Total Time</key><integer>177110</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8BC2B69BC0D2A018</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/01%20Miseria%20Cantare-%20The%20Beginning.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2401</key>
+		<dict>
+			<key>Track ID</key><integer>2401</integer>
+			<key>Name</key><string>The Leaving Song Pt. 2</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8447155</integer>
+			<key>Total Time</key><integer>211121</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Leaving Song Pt. 2</string>
+			<key>Persistent ID</key><string>19C8135EA1D03B26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/02%20The%20Leaving%20Song%20Pt.%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2403</key>
+		<dict>
+			<key>Track ID</key><integer>2403</integer>
+			<key>Name</key><string>Bleed Black</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10231829</integer>
+			<key>Total Time</key><integer>255738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1889368F805BBB38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/03%20Bleed%20Black.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2405</key>
+		<dict>
+			<key>Track ID</key><integer>2405</integer>
+			<key>Name</key><string>Silver And Cold</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10077188</integer>
+			<key>Total Time</key><integer>251872</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1D8F16F618C6481F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/04%20Silver%20And%20Cold.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2407</key>
+		<dict>
+			<key>Track ID</key><integer>2407</integer>
+			<key>Name</key><string>Dancing Through Sunday</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5880885</integer>
+			<key>Total Time</key><integer>146964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F5DAD710C7CE2D98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/05%20Dancing%20Through%20Sunday.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2409</key>
+		<dict>
+			<key>Track ID</key><integer>2409</integer>
+			<key>Name</key><string>Girl's Not Grey</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7634217</integer>
+			<key>Total Time</key><integer>190798</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D5EBE02B867D7B14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/06%20Girl's%20Not%20Grey.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2411</key>
+		<dict>
+			<key>Track ID</key><integer>2411</integer>
+			<key>Name</key><string>Death Of Seasons</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9571459</integer>
+			<key>Total Time</key><integer>239229</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A5CD22D46CDBF396</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/07%20Death%20Of%20Seasons.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2413</key>
+		<dict>
+			<key>Track ID</key><integer>2413</integer>
+			<key>Name</key><string>The Great Disappointment</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13103222</integer>
+			<key>Total Time</key><integer>327523</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Great Disappointment</string>
+			<key>Persistent ID</key><string>566EDE0467B69CE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/08%20The%20Great%20Disappointment.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2415</key>
+		<dict>
+			<key>Track ID</key><integer>2415</integer>
+			<key>Name</key><string>Paper Airplanes (Makeshift Wings)</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9520276</integer>
+			<key>Total Time</key><integer>237949</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>857BAFC0D62470E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/09%20Paper%20Airplanes%20(Makeshift%20Wings).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2417</key>
+		<dict>
+			<key>Track ID</key><integer>2417</integer>
+			<key>Name</key><string>This Celluloid Dream</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10077194</integer>
+			<key>Total Time</key><integer>251872</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0638E1A293640B08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/10%20This%20Celluloid%20Dream.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2419</key>
+		<dict>
+			<key>Track ID</key><integer>2419</integer>
+			<key>Name</key><string>The Leaving Song</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Adam Carson/Dave Marchand/Hunter Burgan/Jade Puget</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6583052</integer>
+			<key>Total Time</key><integer>164519</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Leaving Song</string>
+			<key>Persistent ID</key><string>A2062D0FD1A8976A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/11%20The%20Leaving%20Song.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2421</key>
+		<dict>
+			<key>Track ID</key><integer>2421</integer>
+			<key>Name</key><string>... But Home in Nowhere</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Composer</key><string>Not Applicable</string>
+			<key>Album</key><string>Sing The Sorrow</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>36269618</integer>
+			<key>Total Time</key><integer>906684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-07-18T19:28:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>81DB3270A6A811ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/Sing%20The%20Sorrow/12%20...%20But%20Home%20in%20Nowhere.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2423</key>
+		<dict>
+			<key>Track ID</key><integer>2423</integer>
+			<key>Name</key><string>Initiation</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1584181</integer>
+			<key>Total Time</key><integer>39549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:31:38Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>436F2318957E43C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/01%20Initiation.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2425</key>
+		<dict>
+			<key>Track ID</key><integer>2425</integer>
+			<key>Name</key><string>The Lost Souls</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6507744</integer>
+			<key>Total Time</key><integer>162638</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:32:09Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Sort Name</key><string>Lost Souls</string>
+			<key>Persistent ID</key><string>07AE228FFF38E934</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/02%20The%20Lost%20Souls.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2427</key>
+		<dict>
+			<key>Track ID</key><integer>2427</integer>
+			<key>Name</key><string>The Nephilim</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6218305</integer>
+			<key>Total Time</key><integer>155402</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:32:38Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Sort Name</key><string>Nephilim</string>
+			<key>Persistent ID</key><string>061EB37F84DE4D31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/03%20The%20Nephilim.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2429</key>
+		<dict>
+			<key>Track ID</key><integer>2429</integer>
+			<key>Name</key><string>Ever And A Day</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7482634</integer>
+			<key>Total Time</key><integer>187010</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:33:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>F41743F4AF8F64FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/04%20Ever%20And%20A%20Day.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2431</key>
+		<dict>
+			<key>Track ID</key><integer>2431</integer>
+			<key>Name</key><string>Sacrifice Theory</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4759632</integer>
+			<key>Total Time</key><integer>118935</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:33:30Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>AD83190C0D254E42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/05%20Sacrifice%20Theory.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2433</key>
+		<dict>
+			<key>Track ID</key><integer>2433</integer>
+			<key>Name</key><string>Of Greetings And Goodbyes</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7370841</integer>
+			<key>Total Time</key><integer>184215</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:33:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>3538718F19FF54E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/06%20Of%20Greetings%20And%20Goodbyes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2435</key>
+		<dict>
+			<key>Track ID</key><integer>2435</integer>
+			<key>Name</key><string>Smile</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3673972</integer>
+			<key>Total Time</key><integer>91794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:34:14Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>4FE0E250B65CB6CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/07%20Smile.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2437</key>
+		<dict>
+			<key>Track ID</key><integer>2437</integer>
+			<key>Name</key><string>A Story At Three</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9337330</integer>
+			<key>Total Time</key><integer>233377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:34:47Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Sort Name</key><string>Story At Three</string>
+			<key>Persistent ID</key><string>DBA2B6E30D1A663B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/08%20A%20Story%20At%20Three.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2439</key>
+		<dict>
+			<key>Track ID</key><integer>2439</integer>
+			<key>Name</key><string>The Days Of The Phoenix</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8312292</integer>
+			<key>Total Time</key><integer>207751</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:35:15Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Sort Name</key><string>Days Of The Phoenix</string>
+			<key>Persistent ID</key><string>BAAE30F4B62FEB21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/09%20The%20Days%20Of%20The%20Phoenix.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2441</key>
+		<dict>
+			<key>Track ID</key><integer>2441</integer>
+			<key>Name</key><string>Catch A Hot One</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6972726</integer>
+			<key>Total Time</key><integer>174262</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:35:38Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>FFEA780CE7902A7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/10%20Catch%20A%20Hot%20One.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2443</key>
+		<dict>
+			<key>Track ID</key><integer>2443</integer>
+			<key>Name</key><string>Wester</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7290366</integer>
+			<key>Total Time</key><integer>182204</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:36:02Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>CFC387660EC6FF1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/11%20Wester.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2445</key>
+		<dict>
+			<key>Track ID</key><integer>2445</integer>
+			<key>Name</key><string>6 To 8</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10460586</integer>
+			<key>Total Time</key><integer>261459</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:36:33Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>47AAA3565EA521F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/12%206%20To%208.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2447</key>
+		<dict>
+			<key>Track ID</key><integer>2447</integer>
+			<key>Name</key><string>The Despair Factor</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9389578</integer>
+			<key>Total Time</key><integer>234684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:37:00Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Sort Name</key><string>Despair Factor</string>
+			<key>Persistent ID</key><string>1A470F20B67C7E15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/13%20The%20Despair%20Factor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2449</key>
+		<dict>
+			<key>Track ID</key><integer>2449</integer>
+			<key>Name</key><string>Morningstar</string>
+			<key>Artist</key><string>A.F.I.</string>
+			<key>Album</key><string>The Art Of Drowning</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27523774</integer>
+			<key>Total Time</key><integer>688039</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-12-22T21:38:10Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Art Of Drowning</string>
+			<key>Persistent ID</key><string>70686DDB045595C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/A.F.I_/The%20Art%20Of%20Drowning/14%20Morningstar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2451</key>
+		<dict>
+			<key>Track ID</key><integer>2451</integer>
+			<key>Name</key><string>Grunt</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Elementary [demos]</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12151545</integer>
+			<key>Total Time</key><integer>281234</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-13T19:10:28Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3423061691</integer>
+			<key>Play Date UTC</key><date>2012-06-20T22:28:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DEE0D1EC38096AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Elementary%20%5Bdemos%5D/01%20Grunt.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2453</key>
+		<dict>
+			<key>Track ID</key><integer>2453</integer>
+			<key>Name</key><string>I Wanna Leave This Place</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Elementary [demos]</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11560151</integer>
+			<key>Total Time</key><integer>266448</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-13T19:10:28Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3423061958</integer>
+			<key>Play Date UTC</key><date>2012-06-20T22:32:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25D95E0F9194D920</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Elementary%20%5Bdemos%5D/02%20I%20Wanna%20Leave%20This%20Place.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2455</key>
+		<dict>
+			<key>Track ID</key><integer>2455</integer>
+			<key>Name</key><string>Lower and Lower</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Elementary [demos]</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12116903</integer>
+			<key>Total Time</key><integer>280368</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-13T19:10:28Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3423062238</integer>
+			<key>Play Date UTC</key><date>2012-06-20T22:37:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1237404D65BF9F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Elementary%20%5Bdemos%5D/03%20Lower%20and%20Lower.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2457</key>
+		<dict>
+			<key>Track ID</key><integer>2457</integer>
+			<key>Name</key><string>Triple Me &#38; You Get Three</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Elementary [demos]</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16541181</integer>
+			<key>Total Time</key><integer>390974</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-13T19:10:29Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3423062629</integer>
+			<key>Play Date UTC</key><date>2012-06-20T22:43:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4ADDBCC28325AE60</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Elementary%20%5Bdemos%5D/04%20Triple%20Me%20&#38;%20You%20Get%20Three.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2459</key>
+		<dict>
+			<key>Track ID</key><integer>2459</integer>
+			<key>Name</key><string>Skin Condition</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Elementary [demos]</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8784637</integer>
+			<key>Total Time</key><integer>197064</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-13T19:10:29Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3423062826</integer>
+			<key>Play Date UTC</key><date>2012-06-20T22:47:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>06DAF1A27A7BE1DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Elementary%20%5Bdemos%5D/05%20Skin%20Condition.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2461</key>
+		<dict>
+			<key>Track ID</key><integer>2461</integer>
+			<key>Name</key><string>NMS</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Elementary [demos]</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11347175</integer>
+			<key>Total Time</key><integer>261250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-13T19:10:45Z</date>
+			<key>Date Added</key><date>2012-03-26T23:32:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3423061410</integer>
+			<key>Play Date UTC</key><date>2012-06-20T22:23:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D59352FE9ADBCC9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Elementary%20%5Bdemos%5D/NMS.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2463</key>
+		<dict>
+			<key>Track ID</key><integer>2463</integer>
+			<key>Name</key><string>I Wanna Leave This Place - Minimal Oral Remix</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>I Wanna Leave This Place - Minimal Oral Remix</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10619205</integer>
+			<key>Total Time</key><integer>265012</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-12T23:01:48Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>158F60706D2FDDFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/I%20Wanna%20Leave%20This%20Place%20-%20Minimal%20Oral%20Remix/I%20Wanna%20Leave%20This%20Place%20-%20Minimal%20Oral%20Remix.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2465</key>
+		<dict>
+			<key>Track ID</key><integer>2465</integer>
+			<key>Name</key><string>Mix 1</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>169918717</integer>
+			<key>Total Time</key><integer>4232280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-05T18:58:55Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AACD6BD66C47CE8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/01%20Mix%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2467</key>
+		<dict>
+			<key>Track ID</key><integer>2467</integer>
+			<key>Name</key><string>Mix 2</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>189414347</integer>
+			<key>Total Time</key><integer>4719673</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-05T18:58:55Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A594B4D8BF542B69</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/02%20Mix%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2469</key>
+		<dict>
+			<key>Track ID</key><integer>2469</integer>
+			<key>Name</key><string>Mix 3</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>116007153</integer>
+			<key>Total Time</key><integer>2884493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-05T18:58:55Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DA335344F213D70</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/03%20Mix%203.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2471</key>
+		<dict>
+			<key>Track ID</key><integer>2471</integer>
+			<key>Name</key><string>Mix 4</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>140854839</integer>
+			<key>Total Time</key><integer>3505684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-05T18:58:55Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C48C62490DF515FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/04%20Mix%204.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2473</key>
+		<dict>
+			<key>Track ID</key><integer>2473</integer>
+			<key>Name</key><string>Mix 5</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>146458342</integer>
+			<key>Total Time</key><integer>3645648</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-05T18:58:55Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DA9B57A41DBDECA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/05%20Mix%205.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2475</key>
+		<dict>
+			<key>Track ID</key><integer>2475</integer>
+			<key>Name</key><string>06 Mix 6</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>152935960</integer>
+			<key>Total Time</key><integer>3810899</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-05T18:58:45Z</date>
+			<key>Date Added</key><date>2012-03-26T23:33:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>584D21989E949F0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/06%20Mix%206.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2477</key>
+		<dict>
+			<key>Track ID</key><integer>2477</integer>
+			<key>Name</key><string>Mix 10</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>138087033</integer>
+			<key>Total Time</key><integer>3439307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:12:45Z</date>
+			<key>Date Added</key><date>2012-03-26T23:34:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C4595449C33A26F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%2010.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2479</key>
+		<dict>
+			<key>Track ID</key><integer>2479</integer>
+			<key>Name</key><string>Mix 11</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>115847745</integer>
+			<key>Total Time</key><integer>2882847</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:12:44Z</date>
+			<key>Date Added</key><date>2012-03-26T23:34:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3B6124992CCE188</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%2011.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2481</key>
+		<dict>
+			<key>Track ID</key><integer>2481</integer>
+			<key>Name</key><string>Mix 12</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>135181581</integer>
+			<key>Total Time</key><integer>3366608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:12:38Z</date>
+			<key>Date Added</key><date>2012-03-26T23:35:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>393BEB3DFDE41199</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%2012.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2483</key>
+		<dict>
+			<key>Track ID</key><integer>2483</integer>
+			<key>Name</key><string>Mix 13</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>132288657</integer>
+			<key>Total Time</key><integer>3294223</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:12:42Z</date>
+			<key>Date Added</key><date>2012-03-26T23:35:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD878EB005967D9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%2013.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2485</key>
+		<dict>
+			<key>Track ID</key><integer>2485</integer>
+			<key>Name</key><string>Mix 7</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>215965808</integer>
+			<key>Total Time</key><integer>5387964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:11:57Z</date>
+			<key>Date Added</key><date>2012-03-26T23:36:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C679A733E4182056</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%207.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2487</key>
+		<dict>
+			<key>Track ID</key><integer>2487</integer>
+			<key>Name</key><string>Mix 8</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>154734164</integer>
+			<key>Total Time</key><integer>3855856</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:12:13Z</date>
+			<key>Date Added</key><date>2012-03-26T23:37:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F18CD10C3FA6EC05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%208.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2489</key>
+		<dict>
+			<key>Track ID</key><integer>2489</integer>
+			<key>Name</key><string>Mix 9</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>Mixes</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>132889508</integer>
+			<key>Total Time</key><integer>3309270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-02T14:12:22Z</date>
+			<key>Date Added</key><date>2012-03-26T23:37:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69F9D19153AD6676</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/Mixes/Mix%209.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2491</key>
+		<dict>
+			<key>Track ID</key><integer>2491</integer>
+			<key>Name</key><string>I Wake Up To This? - Bedr0k Mix</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>What I Wake Up To</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15750914</integer>
+			<key>Total Time</key><integer>321912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-02-22T21:00:33Z</date>
+			<key>Date Added</key><date>2012-03-26T23:37:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B7FA012A91C14EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/What%20I%20Wake%20Up%20To/01%20I%20Wake%20Up%20To%20This_%20-%20Bedr0k%20Mix.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2493</key>
+		<dict>
+			<key>Track ID</key><integer>2493</integer>
+			<key>Name</key><string>WSVA Mix 1</string>
+			<key>Artist</key><string>Absolute Zero</string>
+			<key>Album</key><string>WSVA Mixes</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>146002735</integer>
+			<key>Total Time</key><integer>3649645</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Date Modified</key><date>2012-03-27T00:50:22Z</date>
+			<key>Date Added</key><date>2012-03-26T23:37:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E0D1C0D2874CC54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/Absolute%20Zero/WSVA%20Mixes/01%20WSVA%20Mix%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2495</key>
+		<dict>
+			<key>Track ID</key><integer>2495</integer>
+			<key>Name</key><string>Hells Bells</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson/Angus Young/Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12536395</integer>
+			<key>Total Time</key><integer>312790</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2010-07-18T19:31:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:38:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5BD31D716D77A4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/AC_DC/Back%20In%20Black/01%20Hells%20Bells.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2497</key>
+		<dict>
+			<key>Track ID</key><integer>2497</integer>
+			<key>Name</key><string>Shoot To Thrill</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>B. Johnson/M. Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12757899</integer>
+			<key>Total Time</key><integer>318328</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2010-07-18T19:31:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:38:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24419DFAA8C3F053</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/AC_DC/Back%20In%20Black/02%20Shoot%20To%20Thrill.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2499</key>
+		<dict>
+			<key>Track ID</key><integer>2499</integer>
+			<key>Name</key><string>What Do You Do For Money Honey</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Malcolm Young/Angus Young/Brian Johnson</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8659844</integer>
+			<key>Total Time</key><integer>215875</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2010-07-18T19:31:58Z</date>
+			<key>Date Added</key><date>2012-03-26T23:38:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E99948C4C5BDE65F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/AC_DC/Back%20In%20Black/03%20What%20Do%20You%20Do%20For%20Money%20Honey.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2501</key>
+		<dict>
+			<key>Track ID</key><integer>2501</integer>
+			<key>Name</key><string>Givin' The Dog A Bone</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>B. Johnson/M. Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8519799</integer>
+			<key>Total Time</key><integer>212375</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2010-07-18T19:31:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:38:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>321BF6F88341B591</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/AC_DC/Back%20In%20Black/04%20Givin'%20The%20Dog%20A%20Bone.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2503</key>
+		<dict>
+			<key>Track ID</key><integer>2503</integer>
+			<key>Name</key><string>Let Me Put My Love Into You</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>M. Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10228201</integer>
+			<key>Total Time</key><integer>255085</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2010-07-18T19:31:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:38:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8DDFD48A824D17A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/AC_DC/Back%20In%20Black/05%20Let%20Me%20Put%20My%20Love%20Into%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2505</key>
+		<dict>
+			<key>Track ID</key><integer>2505</integer>
+			<key>Name</key><string>Back In Black</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young/Brian Johnson/Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10264789</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2010-07-18T19:31:59Z</date>
+			<key>Date Added</key><date>2012-03-26T23:38:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>546E29A6F233AAAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/davidrhoderick/Music/iTunes/iTunes%20Media/Music/AC_DC/Back%20In%20Black/06%20Back%20In%20Black.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
