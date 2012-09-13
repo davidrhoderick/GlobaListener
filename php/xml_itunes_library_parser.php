@@ -1,22 +1,30 @@
 <?php
-	$filename = "iTunes Music Library.xml";
-	$filepath = "../xml/" . $filename;
-	$index = array();
-	$vals = array();
-	$start_tracks = "<key>Tracks</key>";
+	$filename = "iTunes Music Library.xml";		// name of the xml itunes library file
+	$filepath = "../xml/" . $filename;			// filepath to the xml file
 	
-	$mysqli = new mysqli();
+	$dataarray = array();						// array for uploading to database
+	$entryarray = array(
+			"name"			=>	"",
+			"artist"		=>	"",
+			"composer"		=>	"",
+			"album"			=>	"",
+			"genre"			=>	"",
+			"year"			=>	"" );			// array for each song's entry
 	
-	$dataarray = array(
-			"name"	=>	array(),
-			"artist"		=>	array(),
-			"composer"		=>	array(),
-			"album"			=>	array(),
-			"genre"			=>	array(),
-			"year"			=>	array() );
+	$nexttype = "";								// aligns each key with the value (compensating for iTunes XML)
 	
-	$nexttype = "";
+	// create a mysqli object and connect to the database, also catch errors
+	$mysqli = new mysqli('localhost', 'root', 'root', 'globalistener');
+	mysqli_connect( $mysqli );
 	
+	if ($mysqli->connect_error)
+	{
+		die('Connect Error (' . $mysqli->connect_errno . ') '
+				. $mysqli->connect_error);
+	}
+	
+	// this function takes in an array, the table name, and the database link
+	// and turns an entry, which is an array, into a row in the table
 	function store_array( &$data, $table, $mysqli )
 	{
 		$cols = implode( ',', array_keys( $data ) );
@@ -24,30 +32,42 @@
 		foreach( array_values( $data ) as $value )
 		{
 			isset( $vals ) ? $vals .= ',' : $vals = '';
-			$vals .= '\'' . $this->mysql->real_escape_string($value) . '\'';
+			$vals .= '\'' . mysqli_real_escape_string( $mysqli, $value ) . '\'';
 		}
 		
-		$mysqli->real_query('INSERT INTO '.$table.' ('.$cols.') VALUES ('.$vals.')');
+		if( !mysqli_query( $mysqli,
+			'INSERT INTO ' . $table . ' (' . $cols . ') VALUES (' . $vals . ')' ) )
+		{
+			die( "Couldn't add entries to the database" );
+		}
 	}
 	
+	// this is a handler for the contents of the xml parser
 	function contents( $parser, $data )
 	{
 		global $dataarray;
+		global $entryarray;
 		global $tempartist;
 		global $nexttype;
 		
 		if( $nexttype !== "" )
 		{
+			// if the type is not "year," add the data to the entry array
+			// otherwise, add year as an integer to the entry array
+			// then add the entry to the data array
 			if( $nexttype != "year" )
 			{
-				array_push( $dataarray[$nexttype], $data );
+				$entryarray[$nexttype] = $data;
 			}
 			else
 			{
-				array_push( $dataarray[$nexttype], (int) $data );
+				$entryarray[$nexttype] = (int) $data;
+				array_push( $dataarray, $entryarray );
 			}
 		}
 		
+		// this switches the contents because iTunes puts what type of information follows
+		// in the contents of the tag before it.  This is why $nexttype is needed
 		switch( $data )
 		{
 			case "Name":
@@ -74,27 +94,28 @@
 		
 	}
 	
+	// creates the parser and links the handler to the contents function
 	$parser = xml_parser_create();
-
 	xml_set_character_data_handler($parser, "contents");
 	
+	// finds the XML file and gets the contents to a string
 	$fp = fopen($filepath, "r"); 
-	
 	$data = file_get_contents( $filepath );
 	
+	// parses the XML and error checks
 	if( !( xml_parse( $parser, $data, feof( $fp ) ) ) )
 	{ 
 		die("Error on line " . xml_get_current_line_number( $parser ) ); 
 	}
 	
-	store_array( $dataarray, "tracks", $mysqli );
+	// cycles through each entry and calls store_array to make it a row in the database
+	foreach( $dataarray as $trackentry )
+	{
+		store_array( $trackentry, "tracks", $mysqli );
+	}
 	
-//	echo "End of process line number: " . xml_get_current_line_number( $parser ) . "<br />";
-	
+	// free the parser, clear $data, and close the file
 	xml_parser_free( $parser );
 	$data = "";
 	fclose($fp);
-	
-	var_dump( $dataarray );
-	
 ?>
