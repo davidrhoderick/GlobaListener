@@ -1,0 +1,69 @@
+Pillar v0.1 -- PHP Framework for Mediawiki
+-----------------------------------------------------------
+
+Requirements:
+
+  * PHP 5.2 or newer (not tested on other versions - I expect most
+    (if not all) PHP 5.x releases will work.
+  * The wiki this is used for should be running at least MediaWiki
+    version 1.14 and have the API enabled.  Other versions (1.13
+    especially) may work partially but are unlikely to work fully.
+    Failure will not be graceful!
+  * At least one out of colordiff, diff and wikidiff2 must be installed
+    if you want to do edit-previews.
+
+Installation:
+
+  * Copy the files in Pillar to an appropriate directory.
+
+Included files:
+
+  * class.mwrequest.php: a class to make requests to a MediaWiki site
+  * class.mwsite.php   : a class to store and retrieve information from a MediaWiki site
+  * class.page.php     : a class to get and modify pages from a MediaWiki site
+  * class.pillar.php   : a class to run the application and manage open sites
+  * class.request.php  : a class to make non-MediaWiki HTTP requests
+  * class.site.php     : a class to store and retrieve information from a non-MediaWiki site
+
+Current limitations:
+
+  * Can only do what the API can do, aside from diffs and uploads.
+
+Example:
+
+<?php
+define('PILLAR','PILLAR'); 
+/* Every script implementing Pillar must start with this definition.*/
+
+$pillar = new Pillar('enwiki','en.wikipedia.org','w/api.php','Sambot','password');
+/* A new Pillar instance is created, containing a MWSite instance identified by the string 
+   'enwiki'.  The user specified is logged in.*/
+
+$page = new Page($pillar->cursite,'User:Sambot');
+/* A new Page instance is created, containing information and the text of the page specified.
+   $pillar->cursite is a reference to the current site.*/
+
+$page->put('New text','Edit summary,true);
+/* Make an edit. The third argument is boolean true or false setting whether the edit is
+   minor.*/
+
+$pillar->add_site('bbc','www.bbc.co.uk','');
+/* Make a new Site object, identified by the string 'bbc', at the BBC's homepage.*/
+
+$request = new Request($pillar->get_site('bbc'),array(),false);
+/* Make a new GET request (set the third argument to true to do POST) with no query
+   specified on the site identified by 'bbc'.*/
+
+print ($request->get_body());
+/* Print the body of the request (i.e. leaving out HTTP headers, which are in an array
+   accessible through $request->get_headers().*/
+
+?>
+
+See the documentation at http://toolserver.org/~samkorn/Pillar/docs.
+ 
+Licensed under the MIT License. A copy of the license is included with this release.
+
+Author/maintainer:
+Sam Korn http://en.wikipedia.org/wiki/User:Sam_Korn <smoddy@gmail.com>
+Soxred93 http://en.wikipedia.org/wiki/User:X! <soxred93@gmail.com>
