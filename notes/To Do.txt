@@ -1,0 +1,12 @@
+To Do
+
+1)	Learn object oriented PHP programming (this->function() syntax)
+2)	Learn Wikimate framework
+3)	Try searching for articles
+4)	See if Wikimate grabs by class
+5)	If not learn and try QueryPath on top
+
+1)	Create a 3D model of a sphere
+2)	Mask a sphere
+3)	Change specific a location's radius (add a point at a location on the sphere to the modeled sphere and extend it radially) on the sphere mesh
+4)	Change the colors and alphas of meshes from point to point with interpolation in between
