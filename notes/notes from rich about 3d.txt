@@ -1,0 +1,6 @@
+1)	2.5D, postcards - use built in flash -> could work but maybe use away3d
+2)	3D
+	a)	papervision - no longer maintained
+	b)	away3d - the new "standard"
+	c)	alternativa3d - they charge
+3)	stage3d - like stagevideo, renders straight to gpu
